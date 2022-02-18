@@ -1,0 +1,15 @@
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ECI.exe
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ECI.deps.json
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ECI.runtimeconfig.json
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ECI.dll
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ref\ECI.dll
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\bin\Debug\net6.0\ECI.pdb
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.csproj.AssemblyReference.cache
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.GeneratedMSBuildEditorConfig.editorconfig
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.AssemblyInfoInputs.cache
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.AssemblyInfo.cs
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.csproj.CoreCompileInputs.cache
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.dll
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ref\ECI.dll
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.pdb
+F:\编译器\pineapple-csharp-master\pineapple-csharp-master\ECI\obj\Debug\net6.0\ECI.genruntimeconfig.cache
